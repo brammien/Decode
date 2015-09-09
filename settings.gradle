@@ -1,0 +1,1 @@
+include ':app', ':decodeweek4', ':decode2'
